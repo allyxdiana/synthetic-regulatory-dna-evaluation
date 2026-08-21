@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated master's thesis."
+title: "Reproducibility workflow for evaluating generative approaches for synthetic DNA sequence design"
+type: software
+authors:
+  - family-names: Jury
+    given-names: Alina
+license: MIT
+preferred-citation:
+  type: thesis
+  title: "Evaluating Generative Approaches for the Design of Synthetic DNA Sequences"
+  authors:
+    - family-names: Jury
+      given-names: Alina
+  institution:
+    name: FH JOANNEUM
+  year: 2026

@@ -1,0 +1,29 @@
+# Python
+**pycache**/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+
+# Generated outputs
+results/
+*.log
+
+# Externally obtained data and assets
+TACO_MA/data/
+TACO_MA/results/
+TACO_MA/local_assets/
+
+# Packaging
+build/
+dist/
+*.egg-info/
